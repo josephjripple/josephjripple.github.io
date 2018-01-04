@@ -1,5 +1,4 @@
-header#portfolio-header {
-  background: url(images/paul-jarvis-18909.jpg) center / cover;
+.portfolio-header {
   height: 60vh;
   justify-content: center;
   text-align: center;
